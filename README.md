@@ -1,4 +1,4 @@
-# Omnitick Help Desk System
+# MNTRH Help Desk System
 
 A browser-only help desk system built with vanilla JavaScript and Firebase.
 
